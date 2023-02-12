@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-12T06:11:54.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="hUCXDoCicMLkRAdrv_6o" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-12T06:13:12.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="LDOvsCE6uC9kLvHTXA_5" version="20.8.20" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="5580" dy="2547" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3668" dy="1528" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -303,8 +303,8 @@
         <mxCell id="5D4chmr_N24pfjI9jj-k-150" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Judgments_calc.py&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;sketch=0;fontColor=#FFFF00;" parent="1" vertex="1">
           <mxGeometry x="-242" y="1316.75" width="47.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5D4chmr_N24pfjI9jj-k-152" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;CoordinatesBasedCadastreBorders_calc.py&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;sketch=0;fontColor=#FFFF00;" parent="1" vertex="1">
-          <mxGeometry x="-468" y="1074" width="47.5" height="50" as="geometry" />
+        <mxCell id="5D4chmr_N24pfjI9jj-k-152" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;CoordinatesBasedCadastreBorders2Fc.py&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;sketch=0;fontColor=#FFFF00;" parent="1" vertex="1">
+          <mxGeometry x="150" y="1495" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-153" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;entryX=1.021;entryY=0.4;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;entryPerimeter=0;" parent="1" source="5D4chmr_N24pfjI9jj-k-154" target="5D4chmr_N24pfjI9jj-k-86" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -491,6 +491,15 @@
         </mxCell>
         <mxCell id="yTsKge973nGlsU5HKoms-30" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;CancelParcels2D_calc.py&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;sketch=0;fontColor=#FFFF00;" vertex="1" parent="1">
           <mxGeometry x="1238.75" y="2456" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yTsKge973nGlsU5HKoms-31" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;entryPerimeter=0;" edge="1" parent="1" source="yTsKge973nGlsU5HKoms-32" target="5D4chmr_N24pfjI9jj-k-152">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-872.5" y="1231" as="sourcePoint" />
+            <mxPoint x="207.5" y="1469" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yTsKge973nGlsU5HKoms-32" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;CoordinatesBasedCadastreBorders_calc.py&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;sketch=0;fontColor=#FFFF00;" vertex="1" parent="1">
+          <mxGeometry x="-267" y="1495" width="47.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
