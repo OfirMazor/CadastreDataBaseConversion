@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T17:53:09.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="BfVS42ZgBhuPgu69IklC" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T07:01:02.484Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="pU2MPJkRRQU4uGMEhvsG" version="21.1.2" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="5000" dy="2576" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="6536" dy="3056" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,66 +43,57 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-68" value="Cadaster Process Borders" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;textDirection=ltr;fontSize=15;fillColor=#FFFF33;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="370" y="900" width="295" height="90" as="geometry" />
+          <mxGeometry x="370.01" y="748" width="295" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="5D4chmr_N24pfjI9jj-k-69" style="fontStyle=1;strokeColor=#FFFFFF;strokeWidth=5;html=1;fillColor=#1ba1e2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="5D4chmr_N24pfjI9jj-k-72" target="5D4chmr_N24pfjI9jj-k-68" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="778" y="540" as="sourcePoint" />
-            <mxPoint x="794" y="458" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5D4chmr_N24pfjI9jj-k-72" value="Border Points" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;textDirection=ltr;fontSize=15;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
-          <mxGeometry x="370" y="720" width="295" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="5D4chmr_N24pfjI9jj-k-73" style="fontStyle=1;strokeColor=#FFFFFF;strokeWidth=5;html=1;fillColor=#1ba1e2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5D4chmr_N24pfjI9jj-k-66" target="5D4chmr_N24pfjI9jj-k-72" edge="1">
+        <mxCell id="5D4chmr_N24pfjI9jj-k-73" style="fontStyle=1;strokeColor=#FFFFFF;strokeWidth=5;html=1;fillColor=#1ba1e2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5D4chmr_N24pfjI9jj-k-66" target="5D4chmr_N24pfjI9jj-k-68" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="518" y="658" as="sourcePoint" />
-            <mxPoint x="534" y="576" as="targetPoint" />
+            <mxPoint x="517.5" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-74" value="&lt;font color=&quot;#000000&quot;&gt;Tazar Borders&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Helvetica;fontSize=15;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
-          <mxGeometry x="30" y="900" width="120" height="80" as="geometry" />
+          <mxGeometry x="30.01" y="740" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5D4chmr_N24pfjI9jj-k-75" style="fontStyle=1;strokeColor=#33FFFF;strokeWidth=5;html=1;fillColor=#1ba1e2;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="5D4chmr_N24pfjI9jj-k-74" target="5D4chmr_N24pfjI9jj-k-68" edge="1">
+        <mxCell id="5D4chmr_N24pfjI9jj-k-75" style="fontStyle=1;strokeColor=#33FFFF;strokeWidth=5;html=1;fillColor=#1ba1e2;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.436;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="5D4chmr_N24pfjI9jj-k-74" target="5D4chmr_N24pfjI9jj-k-68" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="528" y="820" as="sourcePoint" />
-            <mxPoint x="120" y="940" as="targetPoint" />
+            <mxPoint x="169" y="754" as="sourcePoint" />
+            <mxPoint x="120.01" y="788" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-76" value="&lt;font color=&quot;#000000&quot;&gt;Tatag Borders&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Helvetica;fontSize=15;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
-          <mxGeometry x="40" y="1010" width="120" height="80" as="geometry" />
+          <mxGeometry x="40.01" y="858" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-77" style="fontStyle=1;strokeColor=#33FFFF;strokeWidth=5;html=1;fillColor=#1ba1e2;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.095;entryY=0.578;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="5D4chmr_N24pfjI9jj-k-76" target="5D4chmr_N24pfjI9jj-k-68" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="473.92499999999995" y="1030" as="sourcePoint" />
-            <mxPoint x="370" y="1110" as="targetPoint" />
+            <mxPoint x="473.93499999999995" y="878" as="sourcePoint" />
+            <mxPoint x="370.01" y="958" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5D4chmr_N24pfjI9jj-k-78" style="fontStyle=1;strokeColor=#FFFFFF;strokeWidth=5;html=1;fillColor=#1ba1e2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="5D4chmr_N24pfjI9jj-k-68" target="5D4chmr_N24pfjI9jj-k-160" edge="1">
+        <mxCell id="5D4chmr_N24pfjI9jj-k-78" style="fontStyle=1;strokeColor=#FFFFFF;strokeWidth=5;html=1;fillColor=#1ba1e2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5D4chmr_N24pfjI9jj-k-68" target="kxKY5KTCNokDi-2hnytd-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="528" y="820" as="sourcePoint" />
-            <mxPoint x="520" y="1404" as="targetPoint" />
+            <mxPoint x="520" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-79" value="&lt;font color=&quot;#000000&quot;&gt;Amendment 97B Borders&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Helvetica;fontSize=15;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
-          <mxGeometry x="20" y="1161" width="120" height="80" as="geometry" />
+          <mxGeometry x="20.01" y="1009" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-82" value="&lt;font color=&quot;#000000&quot;&gt;Judgments Borders&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Helvetica;fontSize=15;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
-          <mxGeometry x="60" y="1306.75" width="120" height="80" as="geometry" />
+          <mxGeometry x="60.01" y="1154.75" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-80" style="fontStyle=1;strokeColor=#33FFFF;strokeWidth=5;html=1;fillColor=#1ba1e2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5D4chmr_N24pfjI9jj-k-79" target="5D4chmr_N24pfjI9jj-k-68" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="523.925" y="1132" as="sourcePoint" />
-            <mxPoint x="448" y="1040" as="targetPoint" />
+            <mxPoint x="523.935" y="980" as="sourcePoint" />
+            <mxPoint x="448.01" y="888" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-84" value="&lt;font color=&quot;#000000&quot;&gt;Coordinates Based Cadastre borders&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Helvetica;fontSize=15;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
-          <mxGeometry x="351" y="1053" width="120" height="80" as="geometry" />
+          <mxGeometry x="325" y="938" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-83" style="fontStyle=1;strokeColor=#33FFFF;strokeWidth=5;html=1;fillColor=#1ba1e2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="5D4chmr_N24pfjI9jj-k-82" target="5D4chmr_N24pfjI9jj-k-68" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="623.925" y="1220.5" as="sourcePoint" />
-            <mxPoint x="504" y="1033.5" as="targetPoint" />
+            <mxPoint x="623.935" y="1068.5" as="sourcePoint" />
+            <mxPoint x="504.01" y="881.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-85" style="fontStyle=1;strokeColor=#33FFFF;strokeWidth=5;html=1;fillColor=#1ba1e2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="5D4chmr_N24pfjI9jj-k-84" target="5D4chmr_N24pfjI9jj-k-68" edge="1">
@@ -112,30 +103,30 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-86" value="&lt;font color=&quot;#000000&quot;&gt;Unregistered Tazar Borders&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Helvetica;fontSize=15;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
-          <mxGeometry x="907.5099999999999" y="903.0000000000001" width="120" height="80" as="geometry" />
+          <mxGeometry x="907.5199999999999" y="751.0000000000001" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-87" style="fontStyle=1;strokeColor=#FF0000;strokeWidth=5;html=1;fillColor=#d80073;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="5D4chmr_N24pfjI9jj-k-86" target="5D4chmr_N24pfjI9jj-k-68" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1430.4350000000002" y="946.7500000000001" as="sourcePoint" />
-            <mxPoint x="645.8333333333333" y="940.4237288135594" as="targetPoint" />
+            <mxPoint x="1430.4450000000002" y="794.7500000000001" as="sourcePoint" />
+            <mxPoint x="645.8433333333332" y="788.4237288135594" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-92" value="&lt;font color=&quot;#000000&quot;&gt;Blocks Regulation Borders&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Helvetica;fontSize=15;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
-          <mxGeometry x="907.5099999999999" y="1025" width="120" height="80" as="geometry" />
+          <mxGeometry x="907.5199999999999" y="873" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-93" style="fontStyle=1;strokeColor=#FF0000;strokeWidth=5;html=1;fillColor=#d80073;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5D4chmr_N24pfjI9jj-k-92" target="5D4chmr_N24pfjI9jj-k-68" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1430.4350000000002" y="1068.75" as="sourcePoint" />
-            <mxPoint x="637.075" y="960" as="targetPoint" />
+            <mxPoint x="1430.4450000000002" y="916.75" as="sourcePoint" />
+            <mxPoint x="637.085" y="808" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-94" value="&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;Unregistered Tatag Borders&lt;/font&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Helvetica;fontSize=15;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
-          <mxGeometry x="740.9999999999999" y="1105" width="120" height="80" as="geometry" />
+          <mxGeometry x="741.0099999999999" y="953" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-95" style="fontStyle=1;strokeColor=#FF0000;strokeWidth=5;html=1;fillColor=#d80073;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="5D4chmr_N24pfjI9jj-k-94" target="5D4chmr_N24pfjI9jj-k-68" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1389.4350000000002" y="1173.75" as="sourcePoint" />
-            <mxPoint x="590" y="1050" as="targetPoint" />
+            <mxPoint x="1389.4450000000002" y="1021.75" as="sourcePoint" />
+            <mxPoint x="590.01" y="898" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-96" style="fontStyle=1;strokeColor=#FFFFFF;strokeWidth=5;html=1;fillColor=#1ba1e2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5D4chmr_N24pfjI9jj-k-97" target="5D4chmr_N24pfjI9jj-k-100" edge="1">
@@ -222,7 +213,7 @@
             <mxPoint x="581" y="182" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5D4chmr_N24pfjI9jj-k-124" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;dashed=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5D4chmr_N24pfjI9jj-k-134" edge="1" target="5D4chmr_N24pfjI9jj-k-62">
+        <mxCell id="5D4chmr_N24pfjI9jj-k-124" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;dashed=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5D4chmr_N24pfjI9jj-k-134" target="5D4chmr_N24pfjI9jj-k-62" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="180" y="339.5" as="sourcePoint" />
             <mxPoint x="416" y="312" as="targetPoint" />
@@ -252,32 +243,23 @@
         <mxCell id="5D4chmr_N24pfjI9jj-k-140" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;TaxAssessmentParcels2Fc.py&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;sketch=0;fontColor=#FFFF00;" parent="1" vertex="1">
           <mxGeometry x="168.25" y="586" width="47.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5D4chmr_N24pfjI9jj-k-141" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;" parent="1" source="5D4chmr_N24pfjI9jj-k-142" target="5D4chmr_N24pfjI9jj-k-72" edge="1">
+        <mxCell id="5D4chmr_N24pfjI9jj-k-143" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;entryX=-0.009;entryY=0.448;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;entryPerimeter=0;" parent="1" source="5D4chmr_N24pfjI9jj-k-144" edge="1" target="5D4chmr_N24pfjI9jj-k-74">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="156" y="740" as="sourcePoint" />
-            <mxPoint x="370" y="745" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5D4chmr_N24pfjI9jj-k-142" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;BorderPoints_calc.py&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;sketch=0;fontColor=#FFFF00;" parent="1" vertex="1">
-          <mxGeometry x="182.5" y="741" width="47.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="5D4chmr_N24pfjI9jj-k-143" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;" parent="1" source="5D4chmr_N24pfjI9jj-k-144" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-218" y="903" as="sourcePoint" />
-            <mxPoint x="30" y="928" as="targetPoint" />
+            <mxPoint x="-217.99" y="751" as="sourcePoint" />
+            <mxPoint x="30.01" y="776" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-144" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Tazar2Fc.py&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;sketch=0;fontColor=#FFFF00;" parent="1" vertex="1">
-          <mxGeometry x="-271.5" y="903" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="-271.49" y="751" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-145" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;" parent="1" source="5D4chmr_N24pfjI9jj-k-146" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-208" y="1020" as="sourcePoint" />
-            <mxPoint x="40" y="1045" as="targetPoint" />
+            <mxPoint x="-207.99" y="868" as="sourcePoint" />
+            <mxPoint x="40.01" y="893" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-146" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Tatag2Fc.py&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;sketch=0;fontColor=#FFFF00;" parent="1" vertex="1">
-          <mxGeometry x="-261.5" y="1020" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="-261.49" y="868" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-151" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;" parent="1" source="5D4chmr_N24pfjI9jj-k-152" target="5D4chmr_N24pfjI9jj-k-84" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -287,51 +269,51 @@
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-147" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;" parent="1" source="5D4chmr_N24pfjI9jj-k-148" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-228" y="1170" as="sourcePoint" />
-            <mxPoint x="20" y="1195" as="targetPoint" />
+            <mxPoint x="-227.99" y="1018" as="sourcePoint" />
+            <mxPoint x="20.01" y="1043" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-148" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Amendments97B2Fc.py&lt;br&gt;&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;sketch=0;fontColor=#FFFF00;" parent="1" vertex="1">
-          <mxGeometry x="-281.5" y="1170" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="-281.49" y="1018" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-149" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;" parent="1" source="5D4chmr_N24pfjI9jj-k-150" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-188.5" y="1316.75" as="sourcePoint" />
-            <mxPoint x="59.5" y="1341.75" as="targetPoint" />
+            <mxPoint x="-188.49" y="1164.75" as="sourcePoint" />
+            <mxPoint x="59.51" y="1189.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-150" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Judgments2Fc.py&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;sketch=0;fontColor=#FFFF00;" parent="1" vertex="1">
-          <mxGeometry x="-242" y="1316.75" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="-241.99" y="1164.75" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-152" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;CoordinatesBasedCadastreBorders2Fc.py&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;sketch=0;fontColor=#FFFF00;" parent="1" vertex="1">
-          <mxGeometry x="150" y="1495" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="150.01" y="1343" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-153" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;entryX=1.021;entryY=0.4;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;entryPerimeter=0;" parent="1" source="5D4chmr_N24pfjI9jj-k-154" target="5D4chmr_N24pfjI9jj-k-86" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="1288.5" y="903" as="sourcePoint" />
-            <mxPoint x="1536.5" y="928" as="targetPoint" />
+            <mxPoint x="1288.51" y="751" as="sourcePoint" />
+            <mxPoint x="1536.51" y="776" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-154" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;UnregisteredTazar2Fc.py&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;sketch=0;fontColor=#FFFF00;" parent="1" vertex="1">
-          <mxGeometry x="1235" y="880" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="1235.01" y="728" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-155" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;entryX=1.021;entryY=0.4;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;entryPerimeter=0;" parent="1" source="5D4chmr_N24pfjI9jj-k-156" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="1285.01" y="1026" as="sourcePoint" />
-            <mxPoint x="1026.51" y="1058" as="targetPoint" />
+            <mxPoint x="1285.02" y="874" as="sourcePoint" />
+            <mxPoint x="1026.52" y="906" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-156" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;BlocksRegulationBorders2Fc.py&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;sketch=0;fontColor=#FFFF00;" parent="1" vertex="1">
-          <mxGeometry x="1231.51" y="1013" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="1231.52" y="861" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-157" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;entryX=1.013;entryY=0.371;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;entryPerimeter=0;" parent="1" source="5D4chmr_N24pfjI9jj-k-158" target="5D4chmr_N24pfjI9jj-k-94" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="1415.5" y="1094" as="sourcePoint" />
-            <mxPoint x="1157" y="1126" as="targetPoint" />
+            <mxPoint x="1415.51" y="942" as="sourcePoint" />
+            <mxPoint x="1157.01" y="974" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-158" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;UnregisteredTatag2Fc.py&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;sketch=0;fontColor=#FFFF00;" parent="1" vertex="1">
-          <mxGeometry x="1092" y="1128" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="1092.01" y="976" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5D4chmr_N24pfjI9jj-k-160" value="CPB Status And Dates" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;textDirection=ltr;fontSize=15;fontColor=#ffffff;fillColor=#008a00;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="372" y="1225" width="295" height="90" as="geometry" />
@@ -425,12 +407,12 @@
         </mxCell>
         <mxCell id="yTsKge973nGlsU5HKoms-8" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;" parent="1" source="yTsKge973nGlsU5HKoms-9" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-530.5" y="1169" as="sourcePoint" />
-            <mxPoint x="-282.5" y="1194" as="targetPoint" />
+            <mxPoint x="-530.49" y="1017" as="sourcePoint" />
+            <mxPoint x="-282.49" y="1042" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yTsKge973nGlsU5HKoms-9" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Amendments97B_calc.py&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;sketch=0;fontColor=#FFFF00;" parent="1" vertex="1">
-          <mxGeometry x="-468" y="1170" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="-467.99" y="1018" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yTsKge973nGlsU5HKoms-10" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;dashed=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="yTsKge973nGlsU5HKoms-11" target="5D4chmr_N24pfjI9jj-k-134" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -443,12 +425,12 @@
         </mxCell>
         <mxCell id="yTsKge973nGlsU5HKoms-14" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;entryPerimeter=0;" parent="1" source="yTsKge973nGlsU5HKoms-15" target="5D4chmr_N24pfjI9jj-k-156" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="1537.51" y="1025" as="sourcePoint" />
-            <mxPoint x="1279.01" y="1057" as="targetPoint" />
+            <mxPoint x="1537.52" y="873" as="sourcePoint" />
+            <mxPoint x="1279.02" y="905" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yTsKge973nGlsU5HKoms-15" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;BlocksRegulationBorders_calc.py&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;sketch=0;fontColor=#FFFF00;" parent="1" vertex="1">
-          <mxGeometry x="1484.01" y="1013" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="1484.02" y="861" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yTsKge973nGlsU5HKoms-16" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;entryPerimeter=0;" parent="1" source="yTsKge973nGlsU5HKoms-17" target="5D4chmr_N24pfjI9jj-k-173" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -458,15 +440,6 @@
         </mxCell>
         <mxCell id="yTsKge973nGlsU5HKoms-17" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;BorderPoints_InProcess_calc.py&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;sketch=0;fontColor=#FFFF00;" parent="1" vertex="1">
           <mxGeometry x="1236.76" y="1944" width="47.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yTsKge973nGlsU5HKoms-18" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;BorderPoints2Fc.py&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;sketch=0;fontColor=#FFFF00;" parent="1" vertex="1">
-          <mxGeometry x="-68" y="741" width="47.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yTsKge973nGlsU5HKoms-19" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;entryPerimeter=0;" parent="1" source="yTsKge973nGlsU5HKoms-18" target="5D4chmr_N24pfjI9jj-k-142" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="163" y="779" as="sourcePoint" />
-            <mxPoint x="417" y="778" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="yTsKge973nGlsU5HKoms-29" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;" parent="1" source="yTsKge973nGlsU5HKoms-30" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -479,12 +452,12 @@
         </mxCell>
         <mxCell id="yTsKge973nGlsU5HKoms-31" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;entryPerimeter=0;" parent="1" source="yTsKge973nGlsU5HKoms-32" target="5D4chmr_N24pfjI9jj-k-152" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-872.5" y="1231" as="sourcePoint" />
-            <mxPoint x="207.5" y="1469" as="targetPoint" />
+            <mxPoint x="-872.49" y="1079" as="sourcePoint" />
+            <mxPoint x="207.51" y="1317" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yTsKge973nGlsU5HKoms-32" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;CoordinatesBasedCadastreBorders_calc.py&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;sketch=0;fontColor=#FFFF00;" parent="1" vertex="1">
-          <mxGeometry x="-267" y="1495" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="-266.99" y="1343" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yTsKge973nGlsU5HKoms-39" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;entryPerimeter=0;" parent="1" source="yTsKge973nGlsU5HKoms-40" target="5D4chmr_N24pfjI9jj-k-163" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -533,12 +506,12 @@
         </mxCell>
         <mxCell id="yTsKge973nGlsU5HKoms-51" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;" parent="1" source="yTsKge973nGlsU5HKoms-52" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-490" y="1317.75" as="sourcePoint" />
-            <mxPoint x="-242" y="1342.75" as="targetPoint" />
+            <mxPoint x="-489.99" y="1165.75" as="sourcePoint" />
+            <mxPoint x="-241.99" y="1190.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yTsKge973nGlsU5HKoms-52" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Judgments_calc.py&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;sketch=0;fontColor=#FFFF00;" parent="1" vertex="1">
-          <mxGeometry x="-543.5" y="1317.75" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="-543.49" y="1165.75" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yTsKge973nGlsU5HKoms-53" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;entryPerimeter=0;" parent="1" source="yTsKge973nGlsU5HKoms-54" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -587,12 +560,12 @@
         </mxCell>
         <mxCell id="yTsKge973nGlsU5HKoms-63" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;" parent="1" source="yTsKge973nGlsU5HKoms-64" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-509.5" y="1020" as="sourcePoint" />
-            <mxPoint x="-261.5" y="1045" as="targetPoint" />
+            <mxPoint x="-509.49" y="868" as="sourcePoint" />
+            <mxPoint x="-261.49" y="893" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yTsKge973nGlsU5HKoms-64" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Tatag_calc.py&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;sketch=0;fontColor=#FFFF00;" parent="1" vertex="1">
-          <mxGeometry x="-563" y="1020" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="-562.99" y="868" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yTsKge973nGlsU5HKoms-66" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;" parent="1" source="yTsKge973nGlsU5HKoms-67" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -614,12 +587,12 @@
         </mxCell>
         <mxCell id="yTsKge973nGlsU5HKoms-70" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;" parent="1" source="yTsKge973nGlsU5HKoms-71" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-519.5" y="903" as="sourcePoint" />
-            <mxPoint x="-271.5" y="928" as="targetPoint" />
+            <mxPoint x="-519.49" y="751" as="sourcePoint" />
+            <mxPoint x="-271.49" y="776" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yTsKge973nGlsU5HKoms-71" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Tazar_calc.py&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;sketch=0;fontColor=#FFFF00;" parent="1" vertex="1">
-          <mxGeometry x="-566" y="903" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="-565.99" y="751" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yTsKge973nGlsU5HKoms-72" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;" parent="1" source="yTsKge973nGlsU5HKoms-73" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -632,21 +605,48 @@
         </mxCell>
         <mxCell id="yTsKge973nGlsU5HKoms-74" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;entryPerimeter=0;" parent="1" source="yTsKge973nGlsU5HKoms-75" target="5D4chmr_N24pfjI9jj-k-158" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="1694" y="1094" as="sourcePoint" />
-            <mxPoint x="1139.5" y="1145" as="targetPoint" />
+            <mxPoint x="1694.01" y="942" as="sourcePoint" />
+            <mxPoint x="1139.51" y="993" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yTsKge973nGlsU5HKoms-75" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;UnregisteredTatag_calc.py&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;sketch=0;fontColor=#FFFF00;" parent="1" vertex="1">
-          <mxGeometry x="1370.5" y="1128" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="1370.51" y="976" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yTsKge973nGlsU5HKoms-76" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;entryPerimeter=0;" parent="1" source="yTsKge973nGlsU5HKoms-77" target="5D4chmr_N24pfjI9jj-k-154" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="1544.75" y="903" as="sourcePoint" />
-            <mxPoint x="1286.25" y="935" as="targetPoint" />
+            <mxPoint x="1544.76" y="751" as="sourcePoint" />
+            <mxPoint x="1286.26" y="783" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yTsKge973nGlsU5HKoms-77" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;UnregisteredTazar_calc.py&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;sketch=0;fontColor=#FFFF00;" parent="1" vertex="1">
-          <mxGeometry x="1491.25" y="880" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="1491.26" y="728" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kxKY5KTCNokDi-2hnytd-8" value="Border Points" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;textDirection=ltr;fontSize=15;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="372" y="1074.75" width="295" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kxKY5KTCNokDi-2hnytd-9" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;" edge="1" parent="1" source="kxKY5KTCNokDi-2hnytd-11" target="kxKY5KTCNokDi-2hnytd-8">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="2083" y="1222" as="sourcePoint" />
+            <mxPoint x="2297" y="1227" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kxKY5KTCNokDi-2hnytd-10" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;BorderPoints_calc.py&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;sketch=0;fontColor=#FFFF00;" vertex="1" parent="1">
+          <mxGeometry x="1235.01" y="1094.75" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kxKY5KTCNokDi-2hnytd-11" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;BorderPoints2Fc.py&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;sketch=0;fontColor=#FFFF00;" vertex="1" parent="1">
+          <mxGeometry x="936.25" y="1094.75" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kxKY5KTCNokDi-2hnytd-12" value="" style="fontSize=12;html=1;endArrow=diamondThin;endFill=0;rounded=0;dashed=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kxKY5KTCNokDi-2hnytd-11" target="kxKY5KTCNokDi-2hnytd-10">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="2090" y="1261" as="sourcePoint" />
+            <mxPoint x="2158" y="1248" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kxKY5KTCNokDi-2hnytd-13" style="fontStyle=1;strokeColor=#FFFFFF;strokeWidth=5;html=1;fillColor=#1ba1e2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kxKY5KTCNokDi-2hnytd-8" target="5D4chmr_N24pfjI9jj-k-160">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="531" y="851" as="sourcePoint" />
+            <mxPoint x="533" y="1088" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
